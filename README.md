@@ -26,7 +26,9 @@ Motivated ECE undergraduate at SRM Valliammai Engineering College with a strong 
 ### 🛠️ Tech Stack
 
 **Languages:** Python
+
 **Libraries:** NumPy, Pandas, OpenCV, scikit-learn, Matplotlib, TensorFlow/Keras
+
 **Tools:** VS Code, KiCad, Proteus, Flask, SQLite, Git/GitHub
 
 ---
