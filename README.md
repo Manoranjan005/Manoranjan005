@@ -52,7 +52,4 @@ Full-stack AI chatbot with a Flask backend integrating Google's Gemini API for r
 
 ---
 
-
----
-
 <p align="center"><i>Thanks for stopping by — always open to connecting!</i></p>
