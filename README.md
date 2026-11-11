@@ -25,15 +25,21 @@ Motivated ECE undergraduate at SRM Valliammai Engineering College with a strong 
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python
+**Languages:** Python, JavaScript
 
-**Libraries:** NumPy, Pandas, OpenCV, scikit-learn, Matplotlib, TensorFlow/Keras
+**Libraries & Frameworks:** NumPy, Pandas, OpenCV, scikit-learn, Matplotlib, TensorFlow/Keras, ChromaDB, React, Vite, Tailwind CSS, Node.js, Express, Flask
 
-**Tools:** VS Code, KiCad, Proteus, Flask, SQLite, Git/GitHub
+**Tools:** VS Code, KiCad, Proteus, SQLite, Git/GitHub, Vercel, OpenRouter / Groq / Gemini APIs
 
 ---
 
 ### 📌 Featured Projects
+
+**[PolicyPilot AI](https://github.com/Manoranjan005/policypilot-)** · [Live demo](https://policypilot-delta.vercel.app)
+Grounded HR/IT policy assistant built on a retrieval-augmented generation pipeline: policy documents are chunked and embedded locally (all-MiniLM-L6-v2), stored in ChromaDB with access-level filtering, and answered by an LLM using only retrieved evidence. Answers are citation-validated, and low-confidence queries abstain and route to a human. A scikit-learn MLP intent classifier handles routing, and an evaluation suite measures Recall@k, MRR, citation correctness and abstention.
+
+**[FitZone AI](https://github.com/Manoranjan005/fitzone-ai)** · [Live demo](https://fitzone-ai-sigma.vercel.app)
+AI fitness coach chatbot (React, Vite, Tailwind CSS, Node.js/Express) that gives personalized workout plans and fitness nutrition guidance. A backend domain-classification gate keeps it strictly fitness-only, even across multi-turn conversations. Includes server-side API key handling, rate limiting, and automatic fallback across multiple OpenRouter models. Deployed on Vercel.
 
 **[Early Detection of Dysgraphia in Children using ML](https://github.com/Manoranjan005)**
 ML-based handwriting analysis system for early dysgraphia detection using Python and OpenCV — applied image preprocessing, feature extraction, and supervised classification, achieving ~85% test accuracy.
