@@ -55,6 +55,7 @@ Full-stack AI chatbot with a Flask backend integrating Google's Gemini API for r
 ### 🎓 Background
 
 - **B.E., Electronics & Communication Engineering** — SRM Valliammai Engineering College (2026)
+- **AI/ML Intern** — GradTwin
 - **Student Intern, PCB Design** — NSIC Technical Services Centre — designed and simulated PCB circuits using Proteus for validation and error reduction
 - **Certification:** Master Python Programming: The Complete Beginner to Advanced — Udemy (2025)
 
